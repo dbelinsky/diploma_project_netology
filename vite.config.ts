@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Railway-ticket-booking-system/',
+  base: '/diploma_project_netology/',
 })
